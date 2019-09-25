@@ -1,0 +1,57 @@
+body {
+    background: url(https://res.cloudinary.com/playrey/image/upload/v1569435134/piazzale-michelangelo_hprwi2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px black;
+    color: white;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 4em;
+}
+
+.carousel-container {
+    text-align: center;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    border-style: solid;
+    /*border-color: #168282;*/
+    border-color: rgba(22,130,130,1);
+}
+
+.container {
+    text-align: center;
+    color: white;
+    margin-top: 2rem;
+
+}
+
+.d-block {
+    width: 400px;
+}
+
+.tab-content {
+    text-align: left;
+}
+
+.nav-tabs>li>a {
+    background-color: rgba(22,130,130,1);
+    border-color: red;
+    color: #FFFFFF;
+}
+
+.inside-tab {
+    background-color: rgba(178,127,28,0.8);
+    background-size: contain;
+    /*height: auto;*/
+    font-size: 125%;
+    padding: 0 1em;
+}
+
+
